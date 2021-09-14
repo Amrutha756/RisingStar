@@ -1,9 +1,15 @@
 Welcome to Git
 
+Change 1 :- fixing
 
-change 1 : fixing
+Change 2:- fixing error.
 
-Change 2: fixing error.
-change 3: by teammate
-Change 4: for CR2 on remote master by teammate with conflict. 
+Change 3: -by teammate
+
+Change  4: - by teammate check rebase
+
+Change 5:- for CR2 on remote master by teammate with conflict. 
+
+Change 6:- for bug3 on local master to verify rebase.
+
 
