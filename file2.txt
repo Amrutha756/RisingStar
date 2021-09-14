@@ -1,3 +1,4 @@
-new changes for CR1
-change to future the task is in progress
-Change to verify normal push from local master to remote master for WT5
+new changes for CR1.
+change to future the task is in progress.
+Change to verify normal push from local master to remote master for WT5.
+Change on remote master by team mate for WT6 to check pull
