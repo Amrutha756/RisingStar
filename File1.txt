@@ -1,8 +1,9 @@
 Welcome to Git
 
 
-change : fixing
+change 1 : fixing
 
-fixing error.
-change: by teammate
+Change 2: fixing error.
+change 3: by teammate
+Change 4: for CR2 on remote master by teammate with conflict. 
 
